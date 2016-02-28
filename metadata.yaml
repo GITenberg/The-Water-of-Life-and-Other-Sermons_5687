@@ -1,0 +1,36 @@
+_repo: The-Water-of-Life-and-Other-Sermons_5687
+creator:
+  author:
+    agent_name: Kingsley, Charles
+    aliases:
+    - Kingsley, C. (Charles)
+    - Kingley, Charles
+    birthdate: 1819
+    deathdate: 1875
+    gutenberg_agent_id: '344'
+    url: http://www.gutenberg.org/2009/agents/344
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Kingsley
+description: This 1867 collection of sermons includes The Physician's Calling," The
+  Victory of Life," The Wages of Sin," The Shaking of the Heavens and the Earth,"
+  The Battle of Life," Cholera, 1866," The Great Commandment," The Wicked Servant,"
+  Civilized Barbarism," and The Meteor Shower."
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5687'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church of England -- Sermons'
+- !lcc 'BX'
+- !lcsh 'Sermons, English -- 19th century'
+tableOfContents: The water of life -- The physician's calling -- The victory of life
+  -- The wages of sin -- Night and day -- The shaking of the heavens and the earth
+  -- The battle of life -- Free grace -- Ezekiel's vision -- Ruth -- Solomon -- Progress
+  -- Faith -- The great commandment -- The earthquake -- The meteor shower -- Cholera
+  -- The wicked servant -- Civilized barbarism -- The God of nature.
+title: The Water of Life, and Other Sermons
+url: http://www.gutenberg.org/ebooks/5687
