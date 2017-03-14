@@ -1,5 +1,8 @@
 _repo: The-Water-of-Life-and-Other-Sermons_5687
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kingsley, Charles
@@ -15,6 +18,8 @@ description: This 1867 collection of sermons includes The Physician's Calling," 
   Victory of Life," The Wages of Sin," The Shaking of the Heavens and the Earth,"
   The Battle of Life," Cholera, 1866," The Great Commandment," The Wicked Servant,"
   Civilized Barbarism," and The Meteor Shower."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5687#The-Water-of-Life-and-Other-Sermons
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
