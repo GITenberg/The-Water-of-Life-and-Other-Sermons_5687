@@ -1,5 +1,5 @@
 _repo: The-Water-of-Life-and-Other-Sermons_5687
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -33,6 +33,7 @@ subjects:
 - !lcsh 'Church of England -- Sermons'
 - !lcc 'BX'
 - !lcsh 'Sermons, English -- 19th century'
+- GITenberg
 tableOfContents: The water of life -- The physician's calling -- The victory of life
   -- The wages of sin -- Night and day -- The shaking of the heavens and the earth
   -- The battle of life -- Free grace -- Ezekiel's vision -- Ruth -- Solomon -- Progress
